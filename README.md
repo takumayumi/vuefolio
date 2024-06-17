@@ -4,6 +4,12 @@
 
 This is a project portfolio built with Vue.js. It showcases various projects and skills, providing an interactive and user-friendly interface.
 
+## Features
+
+### Light and Dark Mode
+
+This portfolio supports both light and dark modes for better readability and user preference. Users can switch between modes easily by clicking on the bulb toggle button.
+
 ## Getting Started
 
 Follow these instructions to set up and run the project on your local machine.

@@ -60,14 +60,18 @@ For more details on how to configure this project, see the Vue CLI Configuration
 
 For deployment instructions, refer to the Vue CLI Deployment Guide.
 
-### Contributing
+## Learning
+
+You are welcome to download and use this project for your learning purposes. Please note that while you can use the code to understand and build your own projects, refrain from using my images.
+
+## Contributing
 
 If you would like to contribute to this project, please fork the repository and create a pull request. We appreciate any contributions, whether it's bug fixes, feature enhancements, or documentation improvements.
 
-### License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-### Contact
+## Contact
 
 For any questions or feedback, please open an issue on the GitHub repository.

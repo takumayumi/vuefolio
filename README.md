@@ -76,6 +76,10 @@ For more details on how to configure this project, see the Vue CLI Configuration
 
 For deployment instructions, refer to the Vue CLI Deployment Guide.
 
+## Credits
+
+- Images: The other images used in this portfolio are from [Freepik](https://www.freepik.com/).
+
 ## Learning
 
 You are welcome to download and use this project for your learning purposes. Please note that while you can use the code to understand and build your own projects, refrain from using my images.

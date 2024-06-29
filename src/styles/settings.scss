@@ -1,0 +1,80 @@
+body {
+  color: var(--v-theme-surface-variant);
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+.v-application__wrap {
+  display: flex;
+  flex-direction: column;
+
+  .v-main {
+    display: flex;
+    flex: 1 1 100%;
+    flex-direction: column;
+  }
+}
+
+h2 {
+  background-color: #A5D8F3;
+  color: #596387;
+  font-size: 32px;
+  padding: 10px 20px
+}
+
+.v-theme--dark h2 {
+  background-color: #282828;
+  color: #FFFFFF;
+}
+
+a,
+.v-icon--clickable {
+  color: var(--v-theme-error);
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  padding: 40px 0;
+}
+
+.center {
+  align-items: center;
+  display: flex;
+  gap: 20px;
+}
+
+.v-window__controls .v-btn.v-btn--icon {
+  background-color: #A5D8F3;
+  color: #596387;
+}
+
+.v-theme--dark .v-window__controls .v-btn.v-btn--icon {
+  background-color: rgba(0, 0, 0, 0.75);
+  color: #FFFFFF;
+}
+
+
+.v-carousel__progress .v-progress-linear__determinate {
+  background-color: #A5D8F3 !important;
+}
+
+.v-theme--dark .v-progress-linear__determinate {
+  background-color: #808080 !important;
+}
+
+#loom-companion-mv3 {
+  display: none;
+}
+
+@media (min-width: 1920px) {
+  .v-container:not(.v-container--fluid) {
+    max-width: 1400px;
+  }
+}

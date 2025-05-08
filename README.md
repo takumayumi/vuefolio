@@ -9,7 +9,7 @@ This is a project portfolio built with Vue.js. It showcases various projects and
 - **Mode Toggle Button**: Allows users to manually switch themes using a bulb toggle button.
 - **Persistent Theme Setting**: Saves the user's theme preference using localStorage to ensure consistency across visits.
 
-## Tools and Technologies Used
+## Technologies Used
 
 - **Babel**: JavaScript compiler for converting modern JavaScript into backward-compatible versions.
 - **ESLint**: Pluggable JavaScript linter for code quality and best practices.

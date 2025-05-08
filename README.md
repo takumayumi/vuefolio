@@ -24,40 +24,34 @@ This is a project portfolio built with Vue.js. It showcases various projects and
 Make sure you have Node.js and npm installed on your system. You can download them from [Node.js official website](https://nodejs.org/).
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/takumayumi/veufolio.git
    cd veufolio
    ```
-2. Install the dependencies:
+3. Install the dependencies:
+
    ```bash
    npm install
    ```
 
-### Development Mode
+4. To run the project in development mode with hot-reloading:
 
-To run the project in development mode with hot-reloading:
+   ```bash
+   npm run serve
+   ```
 
-```bash
-npm run serve
-```
+5. To compile and minify the project for production:
 
-This will start a local server. Open your browser and navigate to http://localhost:8080 to see the application in action.
+   ```bash
+   npm run build
+   ```
 
-### Production Build
+6. To lint and fix files:
 
-To compile and minify the project for production:
-
-```bash
-npm run build
-```
-
-### Linting
-
-To lint and fix files:
-
-```bash
-npm run lint
-```
+   ```bash
+   npm run lint
+   ```
 
 ## Credits
 

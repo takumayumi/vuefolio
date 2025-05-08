@@ -6,9 +6,10 @@ This is a project portfolio built with Vue.js. It showcases various projects and
 
 ## Features
 
-### Light and Dark Mode
-
-This portfolio supports both light and dark modes for better readability and user preference. The initial mode is set based on the user's system preference detected by the browser. Users can switch between modes easily by clicking on the bulb toggle button. Their preference is saved locally using localStorage, ensuring a consistent experience across visits.
+- **Light and Dark Mode**: Supports both light and dark themes for improved readability and user comfort.
+- **System Preference Detection**: Automatically sets the initial theme based on the user's system preference detected by the browser.
+- **Mode Toggle Button**: Allows users to manually switch themes using a bulb toggle button.
+- **Persistent Theme Setting**: Saves the user's theme preference using localStorage to ensure consistency across visits.
 
 ## Tools and Technologies Used
 
